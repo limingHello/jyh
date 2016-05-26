@@ -1,0 +1,158 @@
+.top {
+	width: 100%;
+	height: 100%;
+	background: #f7f7f7;
+	overflow: hidden;
+}
+
+.top_shang {
+	overflow: hidden;
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+}
+
+.top_shang_p1 {
+	float: left;
+	line-height: 30px;
+}
+.top_shang_p2 a{
+	color: #343841;
+}
+.top_shang_p3 a{
+	color: #343841;
+}
+.top_shang_p3 a span{
+	color: #00f;
+	font-weight: 900;
+}
+.top_shang_p4 a{
+	color: #343841;
+}
+.top_shang_p1 a:hover {
+	color: #f00;
+}
+
+.top_shang_p2,
+.top_shang_p3,
+.top_shang_p4 {
+	float: right;
+	margin-left: 15px;
+	line-height: 30px;
+}
+
+.top_shang_p2 a:hover,
+.top_shang_p3 a:hover,
+.top_shang_p4 a:hover {
+	color: #f00;
+}
+
+.top_zhongWai {
+	width: 100%;
+	height: 100px;
+	background: #343841;
+}
+
+.top_zhong {
+	overflow: hidden;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.top_zhong_1 {
+	float: left;
+	width: 156px;
+	height: 49px;
+	padding-top: 20px;
+}
+
+
+}
+.top_zhong_2 {
+	float: right;
+	padding-top: 30px;
+}
+.top_zhong_2 form {
+	float: right;
+	padding-top: 30px;
+}
+.top_zhong_2_input {
+	width: 263px;
+	height: 26px;
+	padding: 7px 7px;
+	float: left;
+	line-height: 26px;
+	font-size: 14px;
+	color: #999;
+	outline: 0 none;
+	border: 0 none;
+}
+.top_zhong_2_btn {
+	width: 100px;
+	height: 40px;
+	border: 0 none;
+	color: #fff;
+	font-size: 16px;
+	line-height: 40px;
+	float: left;
+	background: #ff7d01;
+	cursor: pointer;
+	_margin-left: -3px;
+	padding: 0;
+}
+.top_zhong_3 {
+	width: 490px;
+	height: 100px;
+	float: right;
+	margin-right: 50px;
+}
+.top_zhong_3 ul li {
+	list-style-type: none;
+	float: left;
+	padding: 0px 15px;
+	font-size: 20px;
+	line-height: 100px;
+}
+.top_zhong_3 ul li:hover {
+	background: #f0f;
+}
+.top_zhong_3 ul li a {
+	color: #fff;
+	cursor: pointer;
+}
+.top_xia {
+	overflow: hidden;
+	width: 100%;
+	height: 30px;
+	background: rgb(255, 125, 1);
+}
+.top_xia_nav {
+	width: 1200px;
+	margin: 0px auto;
+}
+.top_xia_nav ul {
+	width: 1200px;
+	text-align: center;
+	float: left;
+}
+.top_xia_nav ul li {
+	float: left;
+	display: inline;
+	list-style-type: none;
+	color: #fff;
+	line-height: 30px;
+	font-size: 14px;
+	font-family: 'Microsoft Yahei';
+	width: 90px;
+}
+.top_xia_nav ul li:hover {
+	background: #CCCCCC;
+}
+.top_xia_nav ul li a {
+	color: rgb(255, 255, 255);
+	display: block;
+	height: 30px;
+	padding: 0px 10px;
+}
+
+/* 公共头部结束  */
