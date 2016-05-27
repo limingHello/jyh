@@ -1,0 +1,171 @@
+.header_zhuCe {
+	width: 100%;
+	height: 120px;
+	background: url(../img/zhuce/nav_bj.jpg) repeat-x;
+}
+.header_1 {
+	height: 29px;
+	line-height: 29px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.header_p1{
+	color: #96979C;
+	float: left;
+}
+.header_p1 a{
+	color: #96979C;
+}
+.header_p1 a:hover{
+	color: #f00;
+}
+.header_right{
+	float: right;
+}
+.right_p2 a{
+	color: #343841;
+	cursor: pointer;
+}
+.right_p2 a:hover{
+	color: #f00;
+}
+.right_p2 span{
+	margin-left: 5px;
+}
+.right_p2 .header_gwc{
+	margin: 0px 20px;
+}
+/*   头上部完      */
+.header_2 {
+	height: 90px;
+	border-top: 1px solid #F4F4F4;
+	width: 1200px;
+	margin: 0 auto;
+}
+.header_2 .logo{
+	width: 186px;
+	height: 59px;
+	float: left;
+	margin: 15px 0px 0px 10px;
+	padding-right: 17px;
+	border-right: solid 1px #B9B9B9;
+}
+.header_2 b{
+	font-size: 24px;
+	font-weight: 900;
+	float: left;
+	display: block;
+	color: #f00;
+	margin-left: 20px;
+	line-height: 85px;
+	padding-right: 350px;
+}
+/*    头下部完        */
+.main{
+	background: url(../img/zhuce/bj.png) repeat;
+	min-height: 620px;
+	width: 100%;
+	padding-top: 34px;
+}
+.zhuCe{
+	width: 1130px;
+height: 540px;
+margin: 0 auto;
+background: #fff;
+border: solid 1px #E2E2E2;
+}
+.zc_left{
+	float: left;
+	margin-left: 65px;
+width: 615px;
+height: 100%;
+}
+.zc_left a{
+	color: #91949b;
+	width: 245px;
+	text-align: center;
+	border-bottom: solid 1px #e4e4e4;
+	padding-bottom: 15px;
+	margin-top: 15px;
+	display: inline-block;
+	height: 33px;
+	line-height: 33px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.zc_left .ptyh{
+	border-right: 1px solid #B4B4B7;
+}
+.zc_left .dsyh{
+	border-left: 1px solid #B4B4B7;
+}
+.zc_left li{
+	overflow: hidden;
+	width: 100%;
+margin: 0 0 15px;
+}
+.zc_left li span{
+	width: 100px;
+	text-align: right;
+	font-size: 14px;
+	float: left;
+	display: inline;
+	line-height: 40px;
+	margin-right: 10px;
+	font-family: "微软雅黑";
+	padding-top: 8px;
+}
+.zc_left span i{
+	color: #f00;
+	margin-right: 3px;
+}
+.zc_left .sjh{
+	margin-top: 15px;
+}
+.zc_left .sjh input{
+	border: 1px solid #DBDBD9;
+	line-height: 40px;
+	padding: 5px 10px;
+	float: left;
+	width: 318px;
+	height: 40px;
+	font-size: 14px;
+	text-indent: 12px;
+	font-family: "微软雅黑";
+}
+.zc_left .szmm input{
+	border: 1px solid #DBDBD9;
+	line-height: 40px;
+	padding: 5px 10px;
+	float: left;
+	width: 318px;
+	height: 40px;
+	font-size: 14px;
+	text-indent: 12px;
+	font-family: "微软雅黑";
+}
+.zc_left .qrmm input{
+	border: 1px solid #DBDBD9;
+	line-height: 40px;
+	padding: 5px 10px;
+	float: left;
+	width: 318px;
+	height: 40px;
+	font-size: 14px;
+	text-indent: 12px;
+	font-family: "微软雅黑";
+}
+
+
+.zc_right{
+	float: left;
+	width: 315px;
+	margin-top: 105px;
+padding-left: 65px;
+border-left: 1px solid #E4E4E4;
+height: 290px;
+}
+.zc_right a img{
+	width: 315px;
+height: 267px;
+}
